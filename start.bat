@@ -1,4 +1,4 @@
 @echo off
-TITLE Saitama Robot
+TITLE pateladmin
 :: Enables virtual env mode and then starts saitama
-env\scripts\activate.bat && py -m alex robot
+env\scripts\activate.bat && py -m pateladmim
