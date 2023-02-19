@@ -1,5 +1,5 @@
 {
-      "name": "Alex Security",
+      "name": "Pateladmin",
       "description": "Description Of the bot",
       "keywords": [
          "telegram",
@@ -7,7 +7,7 @@
          "bot",
          "AlexSecurityBot"
       ], 
-   "repository": "https://github.com/Adarshbotmaker/ALEX-SECURITY",
+   "repository": "https://github.com/jagug/pateladmin",
    "addons": [
       {
          "options": {
@@ -198,8 +198,8 @@
       "telegram",
       "bot",
       "Security",
-      "AlexSecurityBot"
+      "pateladmin"
    ],
-   "name": "Alex Security",
-   "repository": "https://github.com/Adarshbotmaker/ALEX-SECURITY"
+   "name": "pateladmin",
+   "repository": "https://github.com/jagug/pateladmin/ALEX-SECURITY"
 }
